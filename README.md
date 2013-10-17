@@ -17,7 +17,9 @@ Framhaldið var svona nokkuð automatískt, þurfti að búa til partition á di
 
 Myndin sýnir reyndar ekki ubuntu vera að ræsa sig, næ ekki að taka screenshot þegar stýrikerfið startar, eða ekki enn búinn að finna út úr því.
 
-linuxtest.png
+
+![Myndin](linuxtest.png)
+
 
 ## 2. Uppsetning á vim && git
 
