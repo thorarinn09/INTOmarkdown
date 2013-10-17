@@ -1,10 +1,9 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
+## Hópmeðlimir	
 	
-	
-Einn í hóp.
+Var einungis einn í hóp.
 
 
 1. thorarinn09 - Þórarinn Ásdísarson
@@ -12,25 +11,19 @@ Einn í hóp.
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-
-Ætlaði að setja upp Virtual vél, en þar sem lappinn sem ég er að nota virðist vera hálf máttlaus ákvað ég að dual-boota vélinni, sem er fínt því mig langar til að læra almennilega á linux.
-Var svona nokkuð automatískt, þurfti að búa til partition á disknum til að setja ubuntu upp á, var að vesenast í að velja "something else" en lenti í smá vanræðum því mig vantaði swap partition. Eftir smá höfuðklór og tíma þá gat ég loksins sett vélina upp,  síðan þá hefur allt virkað eins og í sögu.
+Stefnan var að setja upp Virtual vél, en þar sem lappinn sem ég er að nota virðist vera hálf máttlaus ákvað ég að dual-boota vélinni, sem er fínt því mig langar til að læra almennilega á linux.
+Framhaldið var svona nokkuð automatískt, þurfti að búa til partition á disknum til að setja ubuntu upp á, var að vesenast í að velja "something else" en lenti í smá vandræðum, því mig vantaði swap partition. Eftir smá höfuðklór og tíma þá gat ég loksins sett vélina upp,  síðan þá hefur allt virkað eins og í sögu.
 
 Pláss fyrir ljósmynd...
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
 
+Vim og Git keyrðu sig inn eins og til var ætlast, þar sem engin grafík og ekkert myndrænt sem ég sá þá var ég ekki viss um hvort rétt var gert, með því að prófa mig áfram með virkni og talsverðu fikti þá sá ég að þetta virkaði.
 
-Vim og Git keyrðu sig inn eins og til var ætlast, þar sem engin grafík og ekkert myndrænt sem ég sá þá var ég ekki viss um hvort rétt var gert
 
 ## 3. Unnið með Git (1. hluti)
-
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
 
 Fylgdi leiðbeiningum í verkefnalýsingu, með því gekk allt eins og í sögu.
 Þar sem ég var einn í (hóp) þá gekk allt eins og í sögu.
@@ -41,17 +34,24 @@ Hér er [tengill] [1] á verkefnið.
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
-1. Ubuntu
-2. Vim
-3. Codeblocks
-4. Putty
+1. [Ubuntu] [1]
+2. [Vim] [2]
+3. [Codeblocks] [3]
+4. [Putty] [4]
+5. [Oracle VirtualBox] [5] 
+6. [Cygwin] [6]
+7. [Qt Project] [7]
+
+[1]: http://www.ubuntu.com
+[2]: http://www.wim.org
+[3]: http://www.codeblocks.org
+[4]: http://www.putty.org
+[5]: https://www.virtualbox.org/
+[6]: http://www.cygwin.com
+[7]: http://qt-project.org/
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
-
-Okey, er þetta þá ekki bara komið?
 
 	thorarinn09.
