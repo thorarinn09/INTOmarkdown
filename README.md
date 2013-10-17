@@ -15,19 +15,22 @@ Var einungis einn í hóp.
 Stefnan var að setja upp Virtual vél, en þar sem lappinn sem ég er að nota virðist vera hálf máttlaus ákvað ég að dual-boota vélinni, sem er fínt því mig langar til að læra almennilega á linux.
 Framhaldið var svona nokkuð automatískt, þurfti að búa til partition á disknum til að setja ubuntu upp á, var að vesenast í að velja "something else" en lenti í smá vandræðum, því mig vantaði swap partition. Eftir smá höfuðklór og tíma þá gat ég loksins sett vélina upp,  síðan þá hefur allt virkað eins og í sögu.
 
-Pláss fyrir ljósmynd...
+Myndin sýnir reyndar ekki ubuntu vera að ræsa sig, næ ekki að taka screenshot þegar stýrikerfið startar, eða ekki enn búinn að finna út úr því.
+
+linuxtest.png
 
 ## 2. Uppsetning á vim && git
 
 
-Vim og Git keyrðu sig inn eins og til var ætlast, þar sem engin grafík og ekkert myndrænt sem ég sá þá var ég ekki viss um hvort rétt var gert, með því að prófa mig áfram með virkni og talsverðu fikti þá sá ég að þetta virkaði.
+Vim og Git keyrðu sig inn eins og til var ætlast, þar sem engin grafík og ekkert myndrænt sem ég sá þá var ég ekki viss um hvort rétt var gert, með því að prófa mig áfram með talsverðu fikti þá sá ég að þetta virkaði.
+
 
 
 ## 3. Unnið með Git (1. hluti)
 
-Fylgdi leiðbeiningum í verkefnalýsingu, með því gekk allt eins og í sögu.
-Þar sem ég var einn í (hóp) þá gekk allt eins og í sögu.
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Fylgdi leiðbeiningum í verkefnalýsingunni.
+Þar sem ég var einn (í hóp) þá gekk allt eins og í sögu.
+
 
 Hér er [tengill] [1] á verkefnið.
 [1]: https://github.com/thorarinn09/INTOmarkdown
